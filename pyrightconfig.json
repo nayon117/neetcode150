@@ -1,0 +1,7 @@
+{
+  "typeCheckingMode": "off",
+  "reportMissingImports": false,
+  "reportUndefinedVariable": false,
+  "reportUnusedVariable": false,
+  "reportGeneralTypeIssues": false
+}
